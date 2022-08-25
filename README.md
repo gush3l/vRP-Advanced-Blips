@@ -27,3 +27,5 @@ To add aditional textures to your texture dictionary to use in your blips, pleas
 # **Credits**
 
 All the credits go to https://github.com/glitchdetector/fivem-blip-info for all the research made for this whole thing.
+
+The provided files for drag and drop are provided from https://github.com/vRP-Official-Developers/dunko_vrp/tree/master/vrp and modified to contain the needed code.
